@@ -8,7 +8,7 @@ Skills: NODE / REACT / AWS / JS / iOS / C# / HTML / CSS / GRAPHQL
 - ⚡ Fun fact: I have over 20 cloud certs 
 
 
-[<img src='https://img.icons8.com/color/2x/github-2.png' alt='github' height='40'>](https://github.com/Speediing)  [<img src='https://img.icons8.com/color/2x/blog.png' alt='dev' height='40'>](https://dev.to/https://dev.to/wiker)  [<img src='https://img.icons8.com/color/2x/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/jason-wiker//)  [<img src='https://img.icons8.com/color/2x/twitter.png' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/Jason_Wiker)  [<img src='https://img.icons8.com/color/2x/name-skin-type-7.png' alt='website' height='40'>](wiker.dev)  
+[<img src='https://img.icons8.com/color/2x/github-2.png' alt='github' height='40'>](https://github.com/Speediing)  [<img src='https://img.icons8.com/color/2x/blog.png' alt='dev' height='40'>](https://dev.to/wiker)  [<img src='https://img.icons8.com/color/2x/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/jason-wiker//)  [<img src='https://img.icons8.com/color/2x/twitter.png' alt='twitter' height='40'>](https://twitter.com/Jason_Wiker)  [<img src='https://img.icons8.com/color/2x/name-skin-type-7.png' alt='website' height='40'>](https://wiker.dev)  
 
 ![GitHub metrics](https://metrics.lecoq.io/Speediing)  
 
