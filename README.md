@@ -3,7 +3,7 @@
 
 Skills: NODE / REACT / AWS / JS / iOS / C# / HTML / CSS / GRAPHQL
 
-- 🌱 I’m currently learning Rust and Solidity  
+- 🌱 I’m currently learning Rust, WebAssembly and Solidity  
 - 📫 How to reach me: jason.wiker@gmail.com 
 - ⚡ Fun fact: I have over 20 cloud certs 
 
