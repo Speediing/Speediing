@@ -1,5 +1,5 @@
 ### Hi there 👋, My Name is Jason
-#### I am a Solution Architect at Xerris Inc.
+#### I am a Solutions Architect at Xerris Inc.
 
 Skills: NODE / REACT / REACT NATIVE / AWS / TERRAFORM / KUBERNETES / SERVERLESS / JS / iOS / C# / HTML / CSS / GRAPHQL
 
