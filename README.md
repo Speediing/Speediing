@@ -1,7 +1,7 @@
 ### Hi there 👋, My Name is Jason
 #### I am a Solutions Architect at Xerris Inc.
 
-Skills: NODE / REACT / REACT NATIVE / NEXTJS / AWS / TERRAFORM / KUBERNETES / SERVERLESS / JS / iOS / C# / HTML / CSS / GRAPHQL
+Skills: NODE / REACT / REACT NATIVE / NEXT.JS / AWS / TERRAFORM / KUBERNETES / SERVERLESS / JS / iOS / C# / HTML / CSS / GRAPHQL
 
 - 🌱 I’m currently learning Rust, WebAssembly and Solidity  
 - 📫 How to reach me: jason.wiker@gmail.com 
