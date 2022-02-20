@@ -3,7 +3,7 @@
 
 Skills: NODE / REACT / REACT NATIVE / NEXT.JS / AWS / TERRAFORM / KUBERNETES / SERVERLESS / JS / iOS / C# / HTML / CSS / GRAPHQL
 
-- 🌱 I’m currently learning Rust, WebAssembly and Solidity  
+- 🌱 I’m currently learning Rust, Svelte and Solidity  
 - 📫 How to reach me: jason.wiker@gmail.com 
 - ⚡ Fun fact: I have over 20 cloud certs 
 
