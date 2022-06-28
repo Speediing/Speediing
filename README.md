@@ -1,5 +1,5 @@
 ### Hi there 👋, My Name is Jason
-#### I am a Solutions Architect at Xerris Inc.
+#### I am a Sales Engineer at Vercel
 
 Skills: NODE / REACT / REACT NATIVE / NEXT.JS / AWS / TERRAFORM / KUBERNETES / SERVERLESS / JS / iOS / C# / HTML / CSS / GRAPHQL
 
